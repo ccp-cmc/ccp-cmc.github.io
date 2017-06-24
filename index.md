@@ -17,11 +17,14 @@ CCP CompMedChem - a CCP for in silico small molecule compound design. Built up o
 
 ## Workshops
 
-#### Meeting March 10th
+#### Meeting March 10th - Diamond
 
 18 Attendees from pharmaceutical industry, software providers, academia at Diamond Light Source
 
-#### Meeting June 21st
+[Workshop one details](https://github.com/ccp-cmc/workshop-1)
 
+#### Meeting June 21st  - Cambridge
 21 Attendees from pharmaceutical industry, software providers, academia at the University of Cambridge
+
+[Workshop two details](https://github.com/ccp-cmc/workshop-2)
 
