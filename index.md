@@ -9,7 +9,7 @@ CCP CompMedChem - a CCP for in silico small molecule compound design. Built up o
 3. Novel method development that speaks to the needs of pharma
 
 
-#### Headline Outcomes
+#### Headline Outcomes:
 1. Two workshops held (Diamond and Cambridge and attended by over 20 people (details below)
 2. £1.3 M grant proposal submitted (hear back next week)
 3.  Open-sourcing of the SQUONK platform and introduction of third party tools https://squonk.it/ commitment to continue to do so
