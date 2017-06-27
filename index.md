@@ -10,9 +10,9 @@ CCP CompMedChem - a CCP for in silico small molecule compound design. Built up o
 
 
 #### Headline Outcomes:
-1. Two workshops held (Diamond and Cambridge and attended by over 20 people (details below)
-2. £1.3 M grant proposal submitted to InnovateUK (hear back end of June).
-3. Contributor to [open-source](https://github.com/InformaticsMatters/squonk){:target="_blank"} community surrounding [SQUONK platform](https://squonk.it/){:target="_blank"}. Including introduction of third party tools and commitment to continue to do so.
+1. Two workshops held Diamond and Cambridge and attended by over 20 people (details below)
+2. £1.3 M grant proposal submitted to InnovateUK (hear back end of June)
+3. Contributor to [open-source](https://github.com/InformaticsMatters/squonk){:target="_blank"} community surrounding [SQUONK platform](https://squonk.it/){:target="_blank"}. Including introduction of third party tools and commitment to continue to do so
 4. Third meeting being organised for October and training workshop to be held this year
 
 ## Workshops
