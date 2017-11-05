@@ -12,7 +12,7 @@ CCP CompMedChem - a CCP for in silico small molecule compound design. Built up o
 #### Headline Outcomes:
 1. Two workshops held Diamond and Cambridge and attended by over 20 people (details below)
 2. Contributor to [open-source](https://github.com/InformaticsMatters/squonk){:target="_blank"} community surrounding [SQUONK platform](https://squonk.it/){:target="_blank"}. Including introduction of third party tools and commitment to continue to do so
-3. Third meeting being organised for October and training workshop to be held this year
+3. Third meeting scheduled for Thursday 11th January at the EBI 
 
 ## Workshops
 
