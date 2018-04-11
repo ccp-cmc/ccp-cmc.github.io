@@ -17,17 +17,17 @@ CCP CompMedChem - a CCP for in silico small molecule compound design. Built up o
 
 ## Workshops
 
-#### Meeting January 11th  - EBI
+#### 3rd Meeting January 11th 2018 - EBI
 21 Attendees from pharmaceutical industry, software providers, academia at the EBI in Hinxton
 
 [Workshop three details](https://github.com/ccp-cmc/workshop-3){:target="_blank"}
 
-#### Meeting June 21st  - Cambridge
+#### 2nd Meeting June 21st 2017 - Cambridge
 21 Attendees from pharmaceutical industry, software providers, academia at the University of Cambridge
 
 [Workshop two details](https://github.com/ccp-cmc/workshop-2){:target="_blank"}
 
-#### Meeting March 10th - Diamond
+#### 1st Meeting March 10th 2017 - Diamond
 
 18 Attendees from pharmaceutical industry, software providers, academia at Diamond Light Source
 
